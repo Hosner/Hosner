@@ -35,6 +35,7 @@ Estou estudando programação, e assistindo videos do canal [Curso em Vídeos](h
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt = "GitHub Badge"/>
   </a>
   
+ ![snake animation](https://github.com/Hosner)
   
  
 </div>
