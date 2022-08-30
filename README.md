@@ -12,7 +12,7 @@
 <a href ="https://github.com/Hosner" >
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt = "GitHub Badge"/>
   </a>
-
+ 
   
 Estou estudando programação, e assistindo videos do canal [Curso em Vídeos](https://www.youtube.com/c/CursoemV%C3%ADdeo).
 
@@ -33,10 +33,11 @@ Estou estudando programação, e assistindo videos do canal [Curso em Vídeos](h
 
   
 ----
-
-<div align="center">   <a href="https://github.com/Hosner">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hosner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hosner&layout=compact&langs_count=7&theme=dracula"/>
+<a div align ="right">
+<div align="center">
+<a href="https://github.com/Hosner">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hosner&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hosner&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
  
