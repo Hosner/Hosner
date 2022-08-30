@@ -24,6 +24,8 @@ Estou estudando programação, e assistindo videos do canal [Curso em Vídeos](h
 
 -💻Aprendendo algo sobre front-end
 
+- 14 anos
+
 <div>
 <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
